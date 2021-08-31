@@ -1,4 +1,4 @@
-puts "Enter your password"
+puts "Enter your words:"
 user_input = gets.chomp
 
 puts "Enter a word to redact"
